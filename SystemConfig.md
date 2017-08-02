@@ -22,7 +22,7 @@ Normal | Dialog | ModalDialog | Toolbar | Fullscreen | Tooltip | Menu | PopupMen
  </wallpaper>
  ```
 `[xml_path]`需要与bash脚本一致
-+ 使用bash脚本生成xml文件
++ 使用[bash脚本](generate.sh)生成xml文件
 
 
 ## 配置系统快捷键
