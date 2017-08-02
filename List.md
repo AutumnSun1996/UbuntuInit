@@ -63,6 +63,11 @@ pip3 install --user scikit-learn scikit-optimize jupyter catboost
 + 可选：从jar文件导入配置。
 
 
+## 配置系统快捷键
+`设置 -> 键盘 -> 快捷键`
+修改或取消`系统 -> 锁定屏幕`（与IDEA 自动格式化 快捷键冲突，一般改为Ctrl+Super+L）
+新建快捷键`nautilus`，打开文件浏览器
+
 ## 安装LightGBM
 + 安装GPU加速需要的依赖
 ```
