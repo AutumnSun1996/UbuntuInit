@@ -3,6 +3,13 @@
 sudo apt-get install git curl 
 ```
 
+## 配置git
+```
+git config --global user.email "q19960105@163.com"
+git config --global user.name "AutumnSun1996"
+```
+
+
 ## 安装ssh
 ```
 sudo apt-get install openssh-server
