@@ -27,6 +27,6 @@ Normal | Dialog | ModalDialog | Toolbar | Fullscreen | Tooltip | Menu | PopupMen
 
 ## 配置系统快捷键
 `设置 -> 键盘 -> 快捷键`
-修改或取消`系统 -> 锁定屏幕`（与IDEA 自动格式化 快捷键冲突，一般改为Ctrl+Super+L）
-新建快捷键`nautilus`，打开文件浏览器
++ 修改或取消`系统 -> 锁定屏幕`（与IDEA 自动格式化 快捷键冲突，一般改为Ctrl+Super+L）
++ 新建快捷键`nautilus`，打开文件浏览器
 
