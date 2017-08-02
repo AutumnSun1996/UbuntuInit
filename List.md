@@ -15,11 +15,11 @@ sudo systemctl enable ssh
 ```
 sudo apt-get install compizconfig-settings-manager compiz-plugins
 ```
-+ Dash输入ccsm，打开`启用透明度。。。`
++ 打开ccsm，启用`不透明度、亮度与饱和度`
 
 + 配置过滤项：
 ```
-Normal|Dialog|ModalDialog|Toolbar|Fullscreen
+Normal | Dialog | ModalDialog | Toolbar | Fullscreen | Tooltip | Menu | PopupMenu | DropdownMenu
 ```
 
 ## 设置动态切换背景
