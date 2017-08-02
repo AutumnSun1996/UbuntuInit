@@ -12,3 +12,6 @@ Things todo for a new Ubuntu system
 
 ## 安装机器学习相关工具
 [MachineLearningTools.md](MachineLearningTools.md)
+
+## 其他可能需要的配置
+[Optional.md](Optional.md)
