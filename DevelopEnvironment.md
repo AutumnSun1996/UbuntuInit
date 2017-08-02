@@ -17,5 +17,5 @@ git config --global user.name "AutumnSun1996"
 
 + License Server: http://idea.iteblog.com/key.php
 
-+ 可选：从[jar文件](settings.jsr)导入配置。
++ 可选：从[jar文件](settings.jar)导入配置。
 
