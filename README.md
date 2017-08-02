@@ -8,7 +8,7 @@ Things todo for a new Ubuntu system
 [Software.md](Software.md)
 
 ## 配置开发环境
-[DevelopEncironment.md](DevelopEncironment.md)
+[DevelopEnvironment.md](DevelopEnvironment.md)
 
 ## 安装机器学习相关工具
 [MachineLearningTools.md](MachineLearningTools.md)
