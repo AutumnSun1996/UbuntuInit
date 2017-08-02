@@ -8,6 +8,7 @@ sudo apt-get install git curl cmake
 ```
 git config --global user.email "q19960105@163.com"
 git config --global user.name "AutumnSun1996"
+git config --global push.default simple
 ```
 
 ## 安装IDEA
