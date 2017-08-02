@@ -1,6 +1,6 @@
 ## 安装常用工具
 ```
-sudo apt-get install git curl 
+sudo apt-get install git curl cmake
 ```
 
 ## 配置git
