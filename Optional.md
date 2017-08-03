@@ -10,6 +10,8 @@ sudo gedit /etc/fstab
 ```
 + 添加：
 ```
-UUID=[UUID] [挂载点] [文件系统] defaults 0 2
+UUID=[UUID] [挂载点] [类型] defaults 0 2
 ```
-+ 可以使用`sudo mount -a`测试
++ 可以使用`sudo mount -a`测试挂载情况
++ 可以使用`ln -s [exist_path] [new_path]`建立软链接
+
