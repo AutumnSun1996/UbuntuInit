@@ -1,5 +1,5 @@
 # 安装机器学习相关工具
-## 安装Python工具
+## 安装pip及Python库
 ```
 sudo apt-get install python3-pip
 pip3 install -U pip
