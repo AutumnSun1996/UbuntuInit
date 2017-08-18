@@ -11,7 +11,7 @@ Normal | Dialog | ModalDialog | Toolbar | Fullscreen | Tooltip | Menu | PopupMen
 ```
 
 ## 设置动态切换背景
-+ 自行下载背景
++ 自行下载背景图片
 
 + 修改文件：/usr/share/gnome-background-properties/xenial-wallpapers.xml， 在`<wallpapers>`中添加
 ```
