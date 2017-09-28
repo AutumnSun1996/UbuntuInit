@@ -4,7 +4,7 @@
 
 
 ## 安装Synergy
-+ 下载[deb文件](https://sourceforge.net/projects/synergy-stable-builds/files/?source=navbar)安装
++ 下载[deb文件](https://www.brahma.world/synergy-stable-builds/)安装
 
 
 ## 安装LaTeX
